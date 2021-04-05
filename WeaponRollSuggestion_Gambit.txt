@@ -1,6 +1,5 @@
 title:Season 13 Alternate Weapon Suggestions
-description: based on: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit#gid=418066381
-
+description: Adam made a spreadsheet!
 
 // Bottom Dollar
 //notes: (PvE): PVE 1 (optimal) mw:Reload, Stability|tags:pve
