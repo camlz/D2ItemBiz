@@ -1,21 +1,6 @@
 title:Season 13 Waypoint Recommends
 description:
 
-// Bottom Dollar Debug
-//notes:Test (??? Testing ???): 111 Debug Testing this roll|tags:Testing
-dimwishlist:item=1046651176&perks=839105230,2420895100,247725512
-
-
-// Bottom Dollar Debug 2
-//notes:Test (??? Testing ???): 222 Debug Testing this roll|tags:Testing
-dimwishlist:item=1046651176&perks=839105230,2420895100,247725512
-
-
-// Bottom Dollar Debug 3
-//notes:Test (??? Testing ???): 333 Debug Testing this roll|tags:Testing
-dimwishlist:item=1046651176&perks=839105230,2420895100,247725512
-
-
 // Gambit
 
 
